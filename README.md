@@ -10,7 +10,7 @@
 - ✍️ Documenting my learning journey through weekly articles on Medium
 
 ## ✍️ Latest Blog Posts
-📖 I share beginner-friendly tutorials and updates from my robotics learning path here:  
+📖 I share beginner-friendly insights and updates from my robotics learning path here:  
 ➡️ [Read my blog on Medium](https://medium.com/@satyarthshree45)
 
 ## 🧠 What I’m Learning
