@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Satyarth Shree
 
-🎓 I'm a first-year B.Tech student in **Robotics & Automation** at Lovely Professional University (LPU), India.  
+🎓 Incoming B.Tech student in Robotics & Automation at Lovely Professional University (LPU), India — classes beginning soon!
 💡 I'm passionate about robotics, embedded systems, and real-world problem solving through automation.
 
 ## 🚀 Current Journey
