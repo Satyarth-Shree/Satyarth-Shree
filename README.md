@@ -26,11 +26,15 @@
 - Open-source robotics projects
 - Contributions to beginner-friendly automation tools
 
-## 📫 Let's Connect
+## 📡 Let’s Connect
 
-- 📧 Email: satyarthshree45@gmail.com
-- 📝 Blog: [Medium](https://medium.com/@satyarthshree45)
--
+I'm documenting my journey in robotics, C programming, and automation through weekly blogs. If you’d like to connect, collaborate, or just say hi — feel free to reach out!
+
+- 📝 [Read my blogs on Medium](https://medium.com/@satyarthshree45)
+- 📬 [Send me a message](https://forms.gle/uubqGXSUzVQmaAgU8)
+
+_I usually reply within 1–2 days. Looking forward to hearing from you!_
+
 
 ---
 
