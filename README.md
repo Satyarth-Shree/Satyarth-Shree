@@ -32,6 +32,7 @@ I'm documenting my journey in robotics, C programming, and automation through we
 
 - 📝 [Read my blogs on Medium](https://medium.com/@satyarthshree45)
 - 📬 [Send me a message](https://forms.gle/uubqGXSUzVQmaAgU8)
+- ✍️ [Read my blogs on Hashnode](https://satyarthshree.hashnode.dev)
 
 _I usually reply within 1–2 days. Looking forward to hearing from you!_
 
