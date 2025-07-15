@@ -11,7 +11,8 @@
 
 ## ✍️ Latest Blog Posts
 📖 I share beginner-friendly insights and updates from my robotics learning path here:  
-➡️ [Read my blog on Medium](https://medium.com/@satyarthshree45)
+➡️ [Read my blogs on Medium](https://medium.com/@satyarthshree45)
+➡️ [Read my blogs on Hashnode](https://satyarthshree.hashnode.dev)
 
 ## 🧠 What I’m Learning
 
