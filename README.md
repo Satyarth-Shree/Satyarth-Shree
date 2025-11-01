@@ -12,7 +12,7 @@
 ## ✍️ Latest Blog Posts
 📖 I share beginner-friendly insights and updates from my robotics learning path here:  
 ➡️ [Read my blogs on Medium](https://medium.com/@satyarthshree45)  
-➡️ [Read my blogs on Hashnode](https://satyarthshree.hashnode.dev)  
+➡️ [Read my blogs on Wordpress](https://satyarthshree.wordpress.com)  
 
 ## 🧠 What I’m Learning
 
@@ -33,7 +33,7 @@ I'm documenting my journey in robotics, Python programming, and automation throu
 
 - 📝 [Read my blogs on Medium](https://medium.com/@satyarthshree45)  
 - 📬 [Send me a message](https://forms.gle/uubqGXSUzVQmaAgU8)  
-- ✍️ [Read my blogs on Hashnode](https://satyarthshree.hashnode.dev)  
+- ✍️ [Read my blogs on Wordpress](https://satyarthshree.wordpress.com)  
 
 _I usually reply within 1–2 days. Looking forward to hearing from you!_
 
