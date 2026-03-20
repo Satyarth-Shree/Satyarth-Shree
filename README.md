@@ -5,19 +5,21 @@
 
 ## 🚀 Current Journey
 
-- 🌱 Focusing on **Python** (building a strong foundation before moving to C++, Arduino, and robotics frameworks)  
+- 🌱 Focusing on **ROS** (building  strong foundation before moving to MoveIt or Nav2)
 - 🛠️ Setting up my personal GitHub portfolio and technical blog  
-- ✍️ Documenting my learning journey through weekly articles on Medium  
+- ✍️ Documenting my learning journey through weekly articles on Medium
+- 📖 Created and maintaining a publication on substack named [ROS Simplified](https://rossimplified.substack.com)
 
 ## ✍️ Latest Blog Posts
 📖 I share beginner-friendly insights and updates from my robotics learning path here:  
 ➡️ [Read my blogs on Medium](https://medium.com/@satyarthshree45)  
-➡️ [Read my blogs on Wordpress](https://satyarthshree.wordpress.com)  
+➡️ [Read my blogs on Substack](https://rossimplified.substack.com)  
 
 ## 🧠 What I’m Learning
 
 - Programming in Python, C and C++  
-- Version control using Git & GitHub  
+- Version control using Git & GitHub
+- ROS2   
 - Basics of electronics and Arduino  
 - Future roadmap: ROS, OpenCV, and AI in robotics  
 
@@ -33,9 +35,17 @@ I'm documenting my journey in robotics, Python programming, and automation throu
 
 - 📝 [Read my blogs on Medium](https://medium.com/@satyarthshree45)  
 - 📬 [Send me a message](https://forms.gle/uubqGXSUzVQmaAgU8)  
-- ✍️ [Read my blogs on Wordpress](https://satyarthshree.wordpress.com)  
+- ✍️ [Read my blogs on Substack](https://rossimplified.substack.com)  
 
 _I usually reply within 1–2 days. Looking forward to hearing from you!_
+
+---
+## My ROS Publication
+
+I started a publication on substack in the month of December, 2025. The name of this publication is [ROS Simplified](https://rossimplified.substack.com).
+ROS Simplified is a learner-driven publication dedicated to making ROS (Robot Operating System) concepts clear, practical, and accessible. We provide tutorials, conceptual explainers, and project walkthroughs designed to help students, hobbyists, and engineers understand and apply ROS efficiently.
+
+Make sure you subscribe to this publication to get notified about any tutorials which I post in future.
 
 ---
 
